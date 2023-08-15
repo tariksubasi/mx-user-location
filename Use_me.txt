@@ -1,0 +1,3 @@
+ - Import mpk files to module with name of Extensions.
+ - copy mmdb file inside resources to mendix project folder's resources folder.
+ - move all files inside userlib to mendix project folder's userlib folder.
